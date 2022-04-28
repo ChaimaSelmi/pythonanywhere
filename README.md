@@ -1,2 +1,2 @@
-# woocommerce
-http://wordpresslocal/
+# pythonanywhere
+http://chaima.pythonanywhere.com/
